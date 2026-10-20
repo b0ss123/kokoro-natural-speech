@@ -1,0 +1,7 @@
+{
+  "respell": {"Nguyen": "Win", "Airbnb": null},
+  "phonemes": {"GIF": "ɡˈɪf"},
+  "head_pause": {"yep": 0.6},
+  "interj_drop": ["Ooh", "Yikes"],
+  "ampm_letters": false
+}
